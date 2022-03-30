@@ -1,0 +1,11 @@
+<permissions>
+  <niagara-permission-groups type="all">
+    <!-- Insert any global permissions here. -->
+  </niagara-permission-groups>
+  <niagara-permission-groups type="workbench">
+    <!-- Insert any workbench specific permissions here. -->
+  </niagara-permission-groups>
+  <niagara-permission-groups type="station">
+    <!-- Insert any station specific permissions here. -->
+  </niagara-permission-groups>
+</permissions>

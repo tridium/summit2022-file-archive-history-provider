@@ -1,0 +1,8 @@
+<!-- Module Include File -->
+<!-- Types -->
+<types>
+  <!--com.tridium.fileArchiveHistory-->
+  <type class="com.tridium.fileArchiveHistory.BFileArchiveHistoryProvider" name="FileArchiveHistoryProvider"/>
+  <!--com.niagarasummit.fileArchiveHistory-->
+  <type class="com.niagarasummit.fileArchiveHistory.BFileArchiveHistoryProvider" name="FileArchiveHistoryProvider"/>
+</types>
